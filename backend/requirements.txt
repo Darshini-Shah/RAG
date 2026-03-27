@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-google-genai
+langchain-community
+langchain-chroma
+langchain-cohere
+youtube-transcript-api
+pytube
+python-dotenv
+rank_bm25
+pydantic
+yt-dlp
